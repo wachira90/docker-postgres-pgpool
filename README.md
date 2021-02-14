@@ -5,6 +5,18 @@ docker-postgres-pgpool
 
 docker-compose up -d
 
+# stop 
+
+docker-compose stop 
+
+# restart
+
+docker-compose restart
+
+# shutdown
+
+docker-compose down
+
 # URL adminer
 
 ## pg-0
